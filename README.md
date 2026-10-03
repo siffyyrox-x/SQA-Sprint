@@ -89,39 +89,4 @@ SQA Sprint also includes a dedicated **Drill** system with flashcards for concep
 
 The current version contains **55+ drill flashcards** collected from across the curriculum.
 
-## Why I Built It
-
-While learning Software Quality Assurance, I wanted a single roadmap that answered three questions:
-
-1. What should I learn?
-2. In what order should I learn it?
-3. How deeply should I learn each topic?
-
-SQA Sprint is my attempt to turn that roadmap into an interactive learning system instead of maintaining scattered notes, bookmarks, and checklists.
-
-The project will continue evolving as I progress through SQA, automation, backend development, and software engineering concepts.
-
-## Target
-
-The roadmap is primarily designed for preparation for roles such as:
-
-- Software Quality Assurance Engineer
-- Junior SQA Engineer
-- Manual QA Engineer
-- API QA Engineer
-- QA Automation Engineer
-- Software Tester
-
-It also includes additional SQL and data-validation material useful for QA-heavy data roles.
-
-## Status
-
-**Work in Progress**
-
-The curriculum is actively being expanded and refined as I learn, practice, and identify additional skills required in real QA roles.
-
-More exercises, automation projects, interview questions, and practical testing scenarios will be added over time.
-
----
-
-Built as a learning project to turn the SQA journey into a structured, measurable sprint.
+P.S. This project was built through AI-assisted vibe coding, guided by my own creativity, ideas, and basic understanding of development. It was an experimental project focused on exploring what’s possible through AI-powered development.
