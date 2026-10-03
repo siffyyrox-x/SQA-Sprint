@@ -1,5 +1,7 @@
 # SQA Sprint
 
+https://siffyyrox-x.github.io/SQA-Sprint/
+
 An interactive, structured learning roadmap for becoming job-ready in **Software Quality Assurance (SQA)**.
 
 I built SQA Sprint as a practical study companion focused on the skills commonly required for entry-level and junior QA roles, particularly in the Bangladesh software industry.
